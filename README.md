@@ -1,4 +1,7 @@
-# google-sheets-qrcodes 📊
+ <img width="56" alt="Screen Shot 2021-06-14 at 11 36 21 AM" src="https://user-images.githubusercontent.com/54046179/121941988-d01c2200-cd04-11eb-8638-3cfde3dc74dc.png"> 
+ 
+# google-sheets-qrcodes
+
 
 ## What does this template allow me to do ❔
 
