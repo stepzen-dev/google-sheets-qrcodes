@@ -1,0 +1,17 @@
+type QRCode { 
+  Text__A:  String 
+  QRCode__B:  String 
+}
+type Query {
+  qrcode(q:String! = ""): [QRCode]
+    @rest(endpoint:"https://sheets-generator-v2-zlwadjbovq-uc.a.run.app/1rKM9iocwMH9T0VdRsFQgpPifUmO9MWP8faC8mxk0qu4/0")
+}
+type Mutation {
+  addQRCode( 
+    Text__A: String! = "" 
+    QRCode__B: String! = "" ): QRCode
+    @rest(
+      endpoint: "https://sheets-generator-v2-zlwadjbovq-uc.a.run.app/mutate/1rKM9iocwMH9T0VdRsFQgpPifUmO9MWP8faC8mxk0qu4"
+      configuration: "QRCodeSheets"
+    )
+}
