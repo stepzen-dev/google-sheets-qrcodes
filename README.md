@@ -1,4 +1,4 @@
-# google-sheets-qrcodes
+# google-sheets-qrcodes 📊
 
 ## What does this template allow me to do ❔
 
