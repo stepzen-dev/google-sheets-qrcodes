@@ -5,7 +5,7 @@
 
 ## What does this template allow me to do ❔
 
-#### Follow along this README and you'll be able to write QRCodes to Google Sheets via GraphQL mutations, using StepZen.
+#### Follow along this README and you'll be able to generate QRCodes via GraphQL mutations to Google Sheets.
 
 ## Step 1 - Get Set Up
 
